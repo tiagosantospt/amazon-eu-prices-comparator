@@ -1,4 +1,4 @@
-#  Simple Code - Amazon Price Comparator
+#  Simple Code using Puppeteer - Amazon Price Comparator
 
 Hi!
 
