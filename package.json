@@ -1,0 +1,20 @@
+{
+  "name": "amazon-prices-compare",
+  "version": "1.0.0",
+  "description": "Amazon Prices Compare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "prices",
+    "compare"
+  ],
+  "author": "Tiago Santos",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^4.0.0"
+  }
+}
