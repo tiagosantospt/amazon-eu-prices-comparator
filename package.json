@@ -1,5 +1,5 @@
 {
-  "name": "amazon-prices-comparator",
+  "name": "amazon-eu-prices-comparator",
   "version": "1.0.0",
   "description": "Simple Code using Puppeteer - Amazon Prices Comparator",
   "main": "index.js",
