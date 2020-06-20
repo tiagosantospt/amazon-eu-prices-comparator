@@ -2,6 +2,12 @@
 
 Hi!
 
+### What you can expect
+
+What the script does is just a comparation between the prices of amazon european departments, like UK, ES, IT, ES, DE and NL. 
+
+### Installation
+
 To start, you have to do the following commands: 
 
 ```
